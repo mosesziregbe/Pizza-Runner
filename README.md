@@ -1,4 +1,4 @@
-# Pizza-Runner 🍕
+# Pizza-Runner Case Study SQL Challenge🍕
 
 ## Introduction
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
