@@ -1,4 +1,4 @@
-# Pizza-Runner
+# Pizza-Runner 🍕
 
 ## Introduction
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
@@ -122,4 +122,4 @@ Total number of pizzas
 #### E. Bonus Questions
 If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an INSERT statement to demonstrate what would happen if a new Supreme pizza with all the toppings was added to the Pizza Runner menu?
 
-Click here to view the solution to the case study!
+Click [here](https://github.com/mosesziregbe/Pizza-Runner/blob/main/pizza_runner_sectionA.sql) to view the solution to the case study!
